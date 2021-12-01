@@ -3,15 +3,6 @@
 FILE INFORMATION
 -----------------------------------------------------------------
 
-file:       Owned.sol
-version:    1.1
-author:     Anton Jurisevic
-            Dominic Romanowski
-            Faycal LALIDJI
-
-date:       2018-2-26
-updated:    2020-6-26
-
 -----------------------------------------------------------------
 MODULE DESCRIPTION
 -----------------------------------------------------------------
